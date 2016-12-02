@@ -47,6 +47,9 @@
          config to 7. -->
     <integer name="config_deviceHardwareWakeKeys">65</integer>
 
+    <!-- Hardware keys on/off option -->
+    <bool name="config_hwKeysPref">true</bool>
+
     <!-- Boolean indicating if current platform supports BLE peripheral mode -->
     <bool name="config_bluetooth_le_peripheral_mode_supported">true</bool>
 
